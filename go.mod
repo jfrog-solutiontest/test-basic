@@ -1,4 +1,4 @@
-module test
+module github.com/jfrog-solutiontest/ci-basic
 
 go 1.14
 

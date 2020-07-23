@@ -2,6 +2,8 @@
 > Simple go module with valid go.mod file and 1 dependency. The dependency does not
 > hava a go.mod file.  This Readme also contains various markdown for ReadMe UI testing.
 > There are four entries for processing
+
+## Multiple ways to process modules
 * This module basic.go - inclusion API; has go.mod file 
 * Dependency ci-basic-dep1 - processing API; no go.mod file
 * Dependency ci-basic-dep2 - shallow processing API; has gopkg.toml file for dependencies

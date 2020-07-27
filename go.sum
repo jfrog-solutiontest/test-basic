@@ -1,7 +1,7 @@
 github.com/creack/pty v1.1.7 h1:6pwm8kMQKCmgUg0ZHTm5+/YvRK0s3THD/28+T6/kk4A=
 github.com/creack/pty v1.1.7/go.mod h1:lj5s0c3V2DBrqTV7llrYr5NG6My20zk30Fl46Y7DoTY=
-github.com/jfrog-solutiontest/ci-basic-dep1 v1.5.1 h1:yPpSEShMhTygDc+yfUCVLGqv1KNiNT7zrIioVwVzsrE=
-github.com/jfrog-solutiontest/ci-basic-dep1 v1.5.1/go.mod h1:1+PZwC88oSNnsyCY2IoG4eAbqSP0uELBX573z0qdRdQ=
+github.com/jfrog-solutiontest/ci-basic-dep1 v1.6.1 h1:LqLQKZyp2C0nhBFhexwcFxAedvzbSnWPJgzmhKdig3M=
+github.com/jfrog-solutiontest/ci-basic-dep1 v1.6.1/go.mod h1:1+PZwC88oSNnsyCY2IoG4eAbqSP0uELBX573z0qdRdQ=
 github.com/jfrog-solutiontest/ci-basic-dep2 v1.6.2 h1:5UijLJYNUsmrtg45lpYDA4UgymaXUoZpWOWpLh9vnW0=
 github.com/jfrog-solutiontest/ci-basic-dep2 v1.6.2/go.mod h1:NvYHDDh2a6AnzyXGQ2LO5Cu8qQILMhJadW/HMWf78U8=
 github.com/kr/pty v1.1.8 h1:AkaSdXYQOWeaO3neb8EM634ahkXXe3jYbVh/F9lq+GI=

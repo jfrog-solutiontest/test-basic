@@ -1,5 +1,11 @@
-github.com/jfrog-solutiontest/ci-basic-dep1 v0.0.0-20200722234135-3867518fe08c h1:2AIPciGPeyq5Kd4pO/F3XO7TyvondCV04BNLm+9eT/c=
-github.com/jfrog-solutiontest/ci-basic-dep1 v0.0.0-20200722234135-3867518fe08c/go.mod h1:1+PZwC88oSNnsyCY2IoG4eAbqSP0uELBX573z0qdRdQ=
+github.com/creack/pty v1.1.7 h1:6pwm8kMQKCmgUg0ZHTm5+/YvRK0s3THD/28+T6/kk4A=
+github.com/creack/pty v1.1.7/go.mod h1:lj5s0c3V2DBrqTV7llrYr5NG6My20zk30Fl46Y7DoTY=
+github.com/jfrog-solutiontest/ci-basic-dep1 v1.4.1 h1:y8YUAOuwUkRfUjShnF5AiJPehLcP6cbtpckCIcvHQvQ=
+github.com/jfrog-solutiontest/ci-basic-dep1 v1.4.1/go.mod h1:1+PZwC88oSNnsyCY2IoG4eAbqSP0uELBX573z0qdRdQ=
+github.com/jfrog-solutiontest/ci-basic-dep2 v1.6.2 h1:5UijLJYNUsmrtg45lpYDA4UgymaXUoZpWOWpLh9vnW0=
+github.com/jfrog-solutiontest/ci-basic-dep2 v1.6.2/go.mod h1:NvYHDDh2a6AnzyXGQ2LO5Cu8qQILMhJadW/HMWf78U8=
+github.com/kr/pty v1.1.8 h1:AkaSdXYQOWeaO3neb8EM634ahkXXe3jYbVh/F9lq+GI=
+github.com/kr/pty v1.1.8/go.mod h1:O1sed60cT9XZ5uDucP5qwvh+TE3NnUj51EiZO/lmSfw=
 github.com/miekg/dns v1.1.30 h1:Qww6FseFn8PRfw07jueqIXqodm0JKiiKuK0DeXSqfyo=
 github.com/miekg/dns v1.1.30/go.mod h1:KNUDUusw/aVsxyTYZM1oqvCicbwhgbNgztCETuNZ7xM=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=

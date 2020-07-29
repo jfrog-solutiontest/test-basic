@@ -1,7 +1,7 @@
-module github.com/jfrog-solutiontest/ci-basic
+module github.com/jfrog-solutiontest/test-basic
 
 go 1.14
 
 require (
-	github.com/jfrog-solutiontest/ci-basic-dep1 v1.19.1
+	github.com/jfrog-solutiontest/test-basic-dep1 v1.19.1
 )
